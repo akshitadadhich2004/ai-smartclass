@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-smartclass/static/css/main.e6c13ad2.css",
+    "main.js": "/ai-smartclass/static/js/main.a4bfb5fe.js",
+    "static/js/563.91700ec9.chunk.js": "/ai-smartclass/static/js/563.91700ec9.chunk.js",
+    "index.html": "/ai-smartclass/index.html",
+    "main.e6c13ad2.css.map": "/ai-smartclass/static/css/main.e6c13ad2.css.map",
+    "main.a4bfb5fe.js.map": "/ai-smartclass/static/js/main.a4bfb5fe.js.map",
+    "563.91700ec9.chunk.js.map": "/ai-smartclass/static/js/563.91700ec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a4bfb5fe.js"
+  ]
+}
